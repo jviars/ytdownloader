@@ -4,7 +4,10 @@
 
 A simple YT video downloader built with Python and CustomTkinter. This application demonstrates how to create a modern GUI application that interacts with web APIs.
 
-> **macOS Users**: A fully packaged application is available in the [Releases](https://github.com/jviars/ytdownloader/releases) section.
+> **macOS Users**: A fully packaged application is available in the [Releases](https://github.com/jviars/ytdownloader/releases) section. Please download the .zip file and decompress it. 
+
+<img width="796" alt="image" src="https://github.com/user-attachments/assets/c4be2644-5ea3-4412-ae83-0a9a3cf65628" />
+
 
 ## Prerequisites
 
